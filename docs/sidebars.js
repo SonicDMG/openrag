@@ -28,10 +28,6 @@ const sidebars = {
       items: [
         "get-started/install-options",
         { type: "doc",
-          id:  "get-started/install",
-          label: "Run the installer script",
-        },
-        { type: "doc",
           id: "get-started/install-uv",
           label: "Install OpenRAG with uv",
         },
@@ -66,7 +62,10 @@ const sidebars = {
       items: [
         "core-components/knowledge",
         "core-components/ingestion",
+        "core-components/ingestion-configure",
+        "core-components/knowledge-browse",
         "core-components/knowledge-filters",
+        "core-components/knowledge-connectors",
       ],
     },
     {
@@ -82,6 +81,11 @@ const sidebars = {
     },
     "support/contribute",
     "support/troubleshoot",
+    {
+      type: "link",
+      label: "Changelog",
+      href: "https://github.com/langflow-ai/openrag/releases",
+    },
   ],
 };
 
