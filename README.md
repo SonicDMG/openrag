@@ -34,7 +34,7 @@ Powered by [OpenSearch](https://github.com/opensearch-project/OpenSearch), [Lang
 ---
 
 <div align="center">
-  <img src="./docs/static/img/openrag_readme_downsized.gif" alt="OpenRAG Demo" width="100%"/>
+  <img src="./docs/static/img/openrag_readme_downsized.gif" alt="OpenRAG Demo" style="width: 100%; max-width: 900px; height: auto;"/>
 </div>
 
 ## ✨ Highlight Features
