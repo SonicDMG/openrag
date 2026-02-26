@@ -14,7 +14,7 @@
 [![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white)](https://github.com/opensearch-project/OpenSearch)
 [![Docling](https://img.shields.io/badge/Docling-000000?style=for-the-badge)](https://github.com/docling-project/docling)
 
-[![Release Notes](https://img.shields.io/github/release/langflow-ai/openrag?style=flat-square)](https://github.com/langflow-ai/openrag/releases)
+[![Release Notes](https://img.shields.io/github/v/release/langflow-ai/openrag?style=flat-square)](https://github.com/langflow-ai/openrag/releases)
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![PyPI - Downloads](https://img.shields.io/pypi/dm/openrag?style=flat-square)](https://pypistats.org/packages/openrag)
 
